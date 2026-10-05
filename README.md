@@ -1,2 +1,3 @@
 #git_projects
+<hr>
 Learning github basics
